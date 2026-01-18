@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I'm Zeyad Mohamed
 
-<!--
-**zeyad-mohvme-d/zeyad-mohvme-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer specialized in Deep Learning and Computer Vision, with hands-on experience in CNNs, transfer learning, and deploying AI models as interactive web applications.
 
-Here are some ideas to get you started:
+### 🔬 What I work on
+- Computer Vision & Image Classification
+- Deep Learning (CNNs, Transfer Learning)
+- Machine Learning Models
+- AI Deployment using Streamlit & FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Python
+- TensorFlow / PyTorch
+- Scikit-learn
+- OpenCV
+- Streamlit
+- FastAPI
+- Git & GitHub
+
+### 🚀 Featured Projects
+- **Sign Language Fingerspelling Assistant (ASL Alphabet)**  
+  CNN-based computer vision system with Streamlit deployment  
+  👉 https://github.com/zeyad-mohvme-d/Sign-Language-Fingerspelling-Assistant-ASL-Alphabet
+
+- **Secure Student Records Management System**  
+  Secure backend system with authentication and access control  
+  👉 https://github.com/zeyad-mohvme-d/Secure-Student-Records-Management-System
+
+### 📫 Contact
+- LinkedIn: https://linkedin.com/in/zeyadmohamed179
